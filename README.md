@@ -150,6 +150,16 @@ Softtrine_Task/
 
 4. **Toggle Product Status**:
    - Admins can toggle the status of a product between **Active** and **Inactive** by clicking the status button. A **PATCH** request is sent to the backend to update the product's status.
+  
+# Output
+![image](https://github.com/user-attachments/assets/b381aeba-32a8-47e4-8234-8924ffa77912)
+![image](https://github.com/user-attachments/assets/19789b75-bd07-4f6a-aef8-d8a596692d53)
+![image](https://github.com/user-attachments/assets/f7282211-1493-4e72-97a8-d84ab847d9fc)
+![image](https://github.com/user-attachments/assets/73af57fe-3cd9-45c0-9283-570738153d60)
+![image](https://github.com/user-attachments/assets/bd665da8-b6ac-4627-8aef-908c1702b839)
+![image](https://github.com/user-attachments/assets/39d64a62-c606-409e-a236-f1b3045eaf44)
+![image](https://github.com/user-attachments/assets/40ed3dbf-70f1-4886-ac48-90c2f2afa34d)
+
 # Conclusion
 
 This project demonstrates a simple product management system where an admin can manage products and their details. The system includes user authentication, role-based navigation, and full CRUD operations with a MySQL database backend.
