@@ -7,7 +7,10 @@ const app = express();
 const port = 5000;
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: "https://softtrine-task-1.onrender.com/", // <- set your actual frontend URL
+  credentials: true
+}));
 app.use(bodyParser.json()); // for parsing application/json
 
 // MySQL Connection
