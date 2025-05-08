@@ -15,7 +15,7 @@ app.use(bodyParser.json()); // for parsing application/json
 
 // MySQL Connection
 const db = mysql.createConnection({
-  host: "localhost", // Your MySQL host
+  host: "", // Your MySQL host
   user: "root", // Your MySQL username
   password: "MYSQLPASS123", // Your MySQL password
   database: "softtrine_task", // Your MySQL database name
