@@ -2,6 +2,10 @@
 
 A full-stack web application for managing products with role-based login functionality for **Admin** and **User** roles. Built using React.js, Express.js, and MySQL.
 
+## Live Demo
+
+Check out the project in action here: [softtrine-1.onrender.com](https://softtrine-1.onrender.com/)
+
 
 ## 📁 Project Structure
 
